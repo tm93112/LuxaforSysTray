@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.10
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LuxaforMusicListener", "WindowsService1\LuxaforMusicListener.csproj", "{2486EAE9-66EC-47CF-B69F-E098A55D007F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2486EAE9-66EC-47CF-B69F-E098A55D007F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2486EAE9-66EC-47CF-B69F-E098A55D007F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2486EAE9-66EC-47CF-B69F-E098A55D007F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2486EAE9-66EC-47CF-B69F-E098A55D007F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B5260BE0-FE7B-45AB-89C0-840301AD361E}
+	EndGlobalSection
+EndGlobal

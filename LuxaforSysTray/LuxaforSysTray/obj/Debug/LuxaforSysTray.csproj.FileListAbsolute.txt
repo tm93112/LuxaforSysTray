@@ -1,0 +1,14 @@
+C:\Users\Tomas\source\repos\LuxaforSysTray\LuxaforSysTray\bin\Debug\LuxaforSysTray.exe.config
+C:\Users\Tomas\source\repos\LuxaforSysTray\LuxaforSysTray\bin\Debug\LuxaforSysTray.exe
+C:\Users\Tomas\source\repos\LuxaforSysTray\LuxaforSysTray\bin\Debug\LuxaforSysTray.pdb
+C:\Users\Tomas\source\repos\LuxaforSysTray\LuxaforSysTray\obj\Debug\LuxaforSysTray.csprojResolveAssemblyReference.cache
+C:\Users\Tomas\source\repos\LuxaforSysTray\LuxaforSysTray\obj\Debug\LuxaforSysTray.Properties.Resources.resources
+C:\Users\Tomas\source\repos\LuxaforSysTray\LuxaforSysTray\obj\Debug\LuxaforSysTray.csproj.GenerateResource.Cache
+C:\Users\Tomas\source\repos\LuxaforSysTray\LuxaforSysTray\obj\Debug\LuxaforSysTray.csproj.CoreCompileInputs.cache
+C:\Users\Tomas\source\repos\LuxaforSysTray\LuxaforSysTray\obj\Debug\LuxaforSysTray.exe
+C:\Users\Tomas\source\repos\LuxaforSysTray\LuxaforSysTray\obj\Debug\LuxaforSysTray.pdb
+C:\Users\Tomas\source\repos\LuxaforSysTray\LuxaforSysTray\bin\Debug\CSCore.dll
+C:\Users\Tomas\source\repos\LuxaforSysTray\LuxaforSysTray\bin\Debug\HidLibrary.dll
+C:\Users\Tomas\source\repos\LuxaforSysTray\LuxaforSysTray\bin\Debug\LuxaforSharp.dll
+C:\Users\Tomas\source\repos\LuxaforSysTray\LuxaforSysTray\bin\Debug\CSCore.xml
+C:\Users\Tomas\source\repos\LuxaforSysTray\LuxaforSysTray\bin\Debug\HidLibrary.pdb

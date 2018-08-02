@@ -1,0 +1,531 @@
+﻿Installing assembly 'C:\Users\Tomas\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Tomas\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\Tomas\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Installing service LuxaforMusicListener...
+Service LuxaforMusicListener has been successfully installed.
+Creating EventLog source LuxaforMusicListener in log Application...
+Committing assembly 'C:\Users\Tomas\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Tomas\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\Tomas\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Uninstalling assembly 'C:\Users\Tomas\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Tomas\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\Tomas\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Removing EventLog source LuxaforMusicListener.
+Service LuxaforMusicListener is being removed from the system...
+Service LuxaforMusicListener was successfully removed from the system.
+Installing assembly 'C:\Users\Tomas\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Tomas\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\Tomas\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Installing service LuxaforMusicListener...
+Service LuxaforMusicListener has been successfully installed.
+Creating EventLog source LuxaforMusicListener in log Application...
+Committing assembly 'C:\Users\Tomas\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Tomas\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\Tomas\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Uninstalling assembly 'C:\Users\Tomas\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Tomas\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\Tomas\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Removing EventLog source LuxaforMusicListener.
+Service LuxaforMusicListener is being removed from the system...
+Service LuxaforMusicListener was successfully removed from the system.
+Installing assembly 'C:\Users\Tomas\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Tomas\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\Tomas\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Installing service LuxaforMusicListener...
+Service LuxaforMusicListener has been successfully installed.
+Creating EventLog source LuxaforMusicListener in log Application...
+Committing assembly 'C:\Users\Tomas\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Tomas\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\Tomas\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Uninstalling assembly 'C:\Users\Tomas\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Tomas\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\Tomas\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Removing EventLog source LuxaforMusicListener.
+Service LuxaforMusicListener is being removed from the system...
+Service LuxaforMusicListener was successfully removed from the system.
+Installing assembly 'C:\Users\Tomas\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Tomas\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\Tomas\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Installing service LuxaforMusicListener...
+Service LuxaforMusicListener has been successfully installed.
+Creating EventLog source LuxaforMusicListener in log Application...
+Committing assembly 'C:\Users\Tomas\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Tomas\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\Tomas\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Uninstalling assembly 'C:\Users\Tomas\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Tomas\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\Tomas\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Removing EventLog source LuxaforMusicListener.
+Service LuxaforMusicListener is being removed from the system...
+Service LuxaforMusicListener was successfully removed from the system.
+Installing assembly 'C:\Users\Tomas\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Tomas\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\Tomas\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Installing service LuxaforMusicListener...
+Service LuxaforMusicListener has been successfully installed.
+Creating EventLog source LuxaforMusicListener in log Application...
+Committing assembly 'C:\Users\Tomas\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Tomas\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\Tomas\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Uninstalling assembly 'C:\Users\Tomas\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Tomas\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\Tomas\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Removing EventLog source LuxaforMusicListener.
+Service LuxaforMusicListener is being removed from the system...
+Service LuxaforMusicListener was successfully removed from the system.
+Installing assembly 'C:\Users\Tomas\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Tomas\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\Tomas\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Installing service LuxaforMusicListener...
+Service LuxaforMusicListener has been successfully installed.
+Creating EventLog source LuxaforMusicListener in log Application...
+Committing assembly 'C:\Users\Tomas\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Tomas\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\Tomas\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Uninstalling assembly 'C:\Users\Tomas\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Tomas\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\Tomas\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Removing EventLog source LuxaforMusicListener.
+Service LuxaforMusicListener is being removed from the system...
+Service LuxaforMusicListener was successfully removed from the system.
+Installing assembly 'C:\Users\Tomas\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Tomas\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\Tomas\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Installing service LuxaforMusicListener...
+Service LuxaforMusicListener has been successfully installed.
+Creating EventLog source LuxaforMusicListener in log Application...
+Committing assembly 'C:\Users\Tomas\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Tomas\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\Tomas\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Uninstalling assembly 'C:\Users\Tomas\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Tomas\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\Tomas\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Removing EventLog source LuxaforMusicListener.
+Service LuxaforMusicListener is being removed from the system...
+Service LuxaforMusicListener was successfully removed from the system.
+Installing assembly 'C:\Users\Tomas\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Tomas\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\Tomas\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Installing service LuxaforMusicListener...
+Service LuxaforMusicListener has been successfully installed.
+Creating EventLog source LuxaforMusicListener in log Application...
+Committing assembly 'C:\Users\Tomas\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Tomas\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\Tomas\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Uninstalling assembly 'C:\Users\Tomas\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Tomas\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\Tomas\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Removing EventLog source LuxaforMusicListener.
+Service LuxaforMusicListener is being removed from the system...
+Service LuxaforMusicListener was successfully removed from the system.
+Installing assembly 'C:\Users\Tomas\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Tomas\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\Tomas\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Installing service LuxaforMusicListener...
+Service LuxaforMusicListener has been successfully installed.
+Creating EventLog source LuxaforMusicListener in log Application...
+Committing assembly 'C:\Users\Tomas\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Tomas\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\Tomas\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Uninstalling assembly 'C:\Users\Tomas\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Tomas\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\Tomas\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Removing EventLog source LuxaforMusicListener.
+Service LuxaforMusicListener is being removed from the system...
+Service LuxaforMusicListener was successfully removed from the system.
+Installing assembly 'C:\Users\Tomas\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Tomas\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\Tomas\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Installing service LuxaforMusicListener...
+Service LuxaforMusicListener has been successfully installed.
+Creating EventLog source LuxaforMusicListener in log Application...
+Committing assembly 'C:\Users\Tomas\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Tomas\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\Tomas\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Uninstalling assembly 'C:\Users\Tomas\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Tomas\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\Tomas\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Removing EventLog source LuxaforMusicListener.
+Service LuxaforMusicListener is being removed from the system...
+Service LuxaforMusicListener was successfully removed from the system.
+Installing assembly 'C:\Users\Tomas\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Tomas\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\Tomas\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Installing service LuxaforMusicListener...
+Service LuxaforMusicListener has been successfully installed.
+Creating EventLog source LuxaforMusicListener in log Application...
+Committing assembly 'C:\Users\Tomas\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Tomas\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\Tomas\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Uninstalling assembly 'C:\Users\Tomas\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Tomas\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\Tomas\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Removing EventLog source LuxaforMusicListener.
+Service LuxaforMusicListener is being removed from the system...
+Service LuxaforMusicListener was successfully removed from the system.
+Uninstalling assembly 'C:\Users\Tomas\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Tomas\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\Tomas\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Removing EventLog source LuxaforMusicListener.
+Warning: The source LuxaforMusicListener is not registered on the local machine.
+Service LuxaforMusicListener is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'C:\Users\Tomas\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Tomas\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\Tomas\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Installing service LuxaforMusicListener...
+Creating EventLog source LuxaforMusicListener in log Application...
+Rolling back assembly 'C:\Users\Tomas\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Tomas\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\Tomas\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Restoring event log to previous state for source LuxaforMusicListener.
+Installing assembly 'C:\Users\Tomas\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Tomas\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\Tomas\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Installing service LuxaforMusicListener...
+Service LuxaforMusicListener has been successfully installed.
+Creating EventLog source LuxaforMusicListener in log Application...
+Committing assembly 'C:\Users\Tomas\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Tomas\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\Tomas\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Uninstalling assembly 'C:\Users\Tomas\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Tomas\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\Tomas\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Removing EventLog source LuxaforMusicListener.
+Service LuxaforMusicListener is being removed from the system...
+Service LuxaforMusicListener was successfully removed from the system.
+Installing assembly 'C:\Users\Tomas\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Tomas\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\Tomas\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Installing service LuxaforMusicListener...
+Service LuxaforMusicListener has been successfully installed.
+Creating EventLog source LuxaforMusicListener in log Application...
+Committing assembly 'C:\Users\Tomas\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Tomas\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\Tomas\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Uninstalling assembly 'C:\Users\Tomas\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Tomas\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\Tomas\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Removing EventLog source LuxaforMusicListener.
+Service LuxaforMusicListener is being removed from the system...
+Service LuxaforMusicListener was successfully removed from the system.
+Installing assembly 'C:\Users\Tomas\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Tomas\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\Tomas\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Installing service LuxaforMusicListener...
+Service LuxaforMusicListener has been successfully installed.
+Creating EventLog source LuxaforMusicListener in log Application...
+Committing assembly 'C:\Users\Tomas\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Tomas\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\Tomas\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Uninstalling assembly 'C:\Users\Tomas\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Tomas\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\Tomas\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Removing EventLog source LuxaforMusicListener.
+Service LuxaforMusicListener is being removed from the system...
+Service LuxaforMusicListener was successfully removed from the system.
+Installing assembly 'C:\Users\Tomas\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Tomas\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\Tomas\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Installing service LuxaforMusicListener...
+Service LuxaforMusicListener has been successfully installed.
+Creating EventLog source LuxaforMusicListener in log Application...
+Committing assembly 'C:\Users\Tomas\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Tomas\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\Tomas\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Uninstalling assembly 'C:\Users\Tomas\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Tomas\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\Tomas\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Removing EventLog source LuxaforMusicListener.
+Service LuxaforMusicListener is being removed from the system...
+Service LuxaforMusicListener was successfully removed from the system.
+Installing assembly 'C:\Users\Tomas\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Tomas\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\Tomas\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Installing service LuxaforMusicListener...
+Service LuxaforMusicListener has been successfully installed.
+Creating EventLog source LuxaforMusicListener in log Application...
+Committing assembly 'C:\Users\Tomas\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Tomas\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\Tomas\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Uninstalling assembly 'C:\Users\Tomas\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Tomas\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\Tomas\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Removing EventLog source LuxaforMusicListener.
+Service LuxaforMusicListener is being removed from the system...
+Service LuxaforMusicListener was successfully removed from the system.
+Installing assembly 'C:\Users\Tomas\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Tomas\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\Tomas\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Installing service LuxaforMusicListener...
+Service LuxaforMusicListener has been successfully installed.
+Creating EventLog source LuxaforMusicListener in log Application...
+Committing assembly 'C:\Users\Tomas\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Tomas\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\Tomas\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Uninstalling assembly 'C:\Users\Tomas\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Tomas\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\Tomas\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Removing EventLog source LuxaforMusicListener.
+Service LuxaforMusicListener is being removed from the system...
+Service LuxaforMusicListener was successfully removed from the system.
+Installing assembly 'C:\Users\Tomas\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Tomas\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\Tomas\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Installing service LuxaforMusicListener...
+Service LuxaforMusicListener has been successfully installed.
+Creating EventLog source LuxaforMusicListener in log Application...
+Committing assembly 'C:\Users\Tomas\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Tomas\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\Tomas\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Uninstalling assembly 'C:\Users\Tomas\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Tomas\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\Tomas\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Removing EventLog source LuxaforMusicListener.
+Service LuxaforMusicListener is being removed from the system...
+Service LuxaforMusicListener was successfully removed from the system.
+Installing assembly 'C:\Users\Tomas\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Tomas\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\Tomas\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Installing service LuxaforMusicListener...
+Service LuxaforMusicListener has been successfully installed.
+Creating EventLog source LuxaforMusicListener in log Application...
+Committing assembly 'C:\Users\Tomas\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Tomas\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\Tomas\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Uninstalling assembly 'C:\Users\Tomas\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Tomas\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\Tomas\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Removing EventLog source LuxaforMusicListener.
+Service LuxaforMusicListener is being removed from the system...
+Service LuxaforMusicListener was successfully removed from the system.
+Installing assembly 'C:\Users\Tomas\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Tomas\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\Tomas\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Installing service LuxaforMusicListener...
+Service LuxaforMusicListener has been successfully installed.
+Creating EventLog source LuxaforMusicListener in log Application...
+Committing assembly 'C:\Users\Tomas\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Tomas\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\Tomas\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Uninstalling assembly 'C:\Users\Tomas\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Tomas\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\Tomas\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Removing EventLog source LuxaforMusicListener.
+Service LuxaforMusicListener is being removed from the system...
+Service LuxaforMusicListener was successfully removed from the system.
+Uninstalling assembly 'C:\Users\Tomas\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Tomas\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\Tomas\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Removing EventLog source LuxaforMusicListener.
+Warning: The source LuxaforMusicListener is not registered on the local machine.
+Service LuxaforMusicListener is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'C:\Users\Tomas\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Tomas\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\Tomas\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Installing service LuxaforMusicListener...
+Service LuxaforMusicListener has been successfully installed.
+Creating EventLog source LuxaforMusicListener in log Application...
+Committing assembly 'C:\Users\Tomas\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Tomas\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\Tomas\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Uninstalling assembly 'C:\Users\Tomas\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Tomas\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\Tomas\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Removing EventLog source LuxaforMusicListener.
+Service LuxaforMusicListener is being removed from the system...
+Service LuxaforMusicListener was successfully removed from the system.
+Installing assembly 'C:\Users\Tomas\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Tomas\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\Tomas\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Installing service LuxaforMusicListener...
+Service LuxaforMusicListener has been successfully installed.
+Creating EventLog source LuxaforMusicListener in log Application...
+Committing assembly 'C:\Users\Tomas\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Tomas\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\Tomas\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Uninstalling assembly 'C:\Users\Tomas\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Tomas\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\Tomas\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Removing EventLog source LuxaforMusicListener.
+Service LuxaforMusicListener is being removed from the system...
+Service LuxaforMusicListener was successfully removed from the system.
+Installing assembly 'C:\Users\Tomas\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Tomas\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\Tomas\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Installing service LuxaforMusicListener...
+Service LuxaforMusicListener has been successfully installed.
+Creating EventLog source LuxaforMusicListener in log Application...
+Committing assembly 'C:\Users\Tomas\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Tomas\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\Tomas\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Uninstalling assembly 'C:\Users\Tomas\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Tomas\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\Tomas\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Removing EventLog source LuxaforMusicListener.
+Service LuxaforMusicListener is being removed from the system...
+Service LuxaforMusicListener was successfully removed from the system.
+Installing assembly 'C:\Users\Tomas\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Tomas\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\Tomas\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Installing service LuxaforMusicListener...
+Service LuxaforMusicListener has been successfully installed.
+Creating EventLog source LuxaforMusicListener in log Application...
+Committing assembly 'C:\Users\Tomas\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Tomas\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\Tomas\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe

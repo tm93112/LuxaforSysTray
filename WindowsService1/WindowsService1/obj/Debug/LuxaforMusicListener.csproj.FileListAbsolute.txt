@@ -1,0 +1,15 @@
+C:\Users\Tomas\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe.config
+C:\Users\Tomas\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+C:\Users\Tomas\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.pdb
+C:\Users\Tomas\source\repos\WindowsService1\WindowsService1\bin\Debug\CSCore.dll
+C:\Users\Tomas\source\repos\WindowsService1\WindowsService1\bin\Debug\CSCore.xml
+C:\Users\Tomas\source\repos\WindowsService1\WindowsService1\obj\Debug\WindowsLuxaforMusicListener.LuxaforMusicListener.resources
+C:\Users\Tomas\source\repos\WindowsService1\WindowsService1\obj\Debug\WindowsService1.ProjectInstaller.resources
+C:\Users\Tomas\source\repos\WindowsService1\WindowsService1\obj\Debug\LuxaforMusicListener.csproj.GenerateResource.Cache
+C:\Users\Tomas\source\repos\WindowsService1\WindowsService1\obj\Debug\LuxaforMusicListener.csproj.CoreCompileInputs.cache
+C:\Users\Tomas\source\repos\WindowsService1\WindowsService1\obj\Debug\WindowsService1.exe
+C:\Users\Tomas\source\repos\WindowsService1\WindowsService1\obj\Debug\WindowsService1.pdb
+C:\Users\Tomas\source\repos\WindowsService1\WindowsService1\obj\Debug\LuxaforMusicListener.csprojResolveAssemblyReference.cache
+C:\Users\Tomas\source\repos\WindowsService1\WindowsService1\bin\Debug\HidLibrary.dll
+C:\Users\Tomas\source\repos\WindowsService1\WindowsService1\bin\Debug\LuxaforSharp.dll
+C:\Users\Tomas\source\repos\WindowsService1\WindowsService1\bin\Debug\HidLibrary.pdb
